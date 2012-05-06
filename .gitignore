@@ -1,0 +1,6 @@
+# Ignore all virtualenv directories
+bin/
+local/
+lib/
+include/
+
