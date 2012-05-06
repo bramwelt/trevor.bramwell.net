@@ -1,9 +1,9 @@
 trevor.bramwell.net
 ======
 
-| Author | Trevor Bramwell |
-| ------ | --------------- |
-| Date | Sun May  6 09:53:04 UTC 2012 |
+| Author          | Date                         |
+| --------------- | ---------------------------- |
+| Trevor Bramwell | Sun May  6 09:53:04 UTC 2012 |
 
 This is the home page of Trevor Bramwell.
 
