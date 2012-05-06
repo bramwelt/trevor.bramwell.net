@@ -4,3 +4,5 @@ local/
 lib/
 include/
 
+# Ignore wok output directory
+output/

@@ -1,0 +1,4 @@
+site_title: "TJB"
+author: "Trevor Bramwell"
+url_include_index: no
+url_pattern: "/{category}/{slug}/{page}/index.html"
