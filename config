@@ -1,4 +1,4 @@
-site_title: "TJB"
-author: "Trevor Bramwell"
+site_title: Trevor Bramwell
+author: Trevor Bramwell <trevor@bramwell.net>
 url_include_index: no
-url_pattern: "/{category}/{slug}/{page}/index.html"
+url_pattern: /{category}/{slug}/{page}/index.html
