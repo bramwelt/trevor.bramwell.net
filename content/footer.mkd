@@ -1,8 +1,0 @@
-title: Footer
-make_file: no
----
-&copy;2011 Trevor Bramwell
-
-This site is powered by [wok][].
-
-[wok]: https://github.com/mythmon/wok

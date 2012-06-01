@@ -1,0 +1,123 @@
+/* Solarized Colors 
+-------------------------------------------------------------- */
+/* -------------------------------------------------------------
+base03:    #002b36; - dark
+base02:    #073642; - dark
+base01:    #586e75; - (dark light)
+base00:    #657b83; - light
+base0:     #839496; - dark
+base1:     #93a1a1; - (dark, light)
+base2:     #eee8d5; - light
+base3:     #fdf6e3; - light
+
+yellow:    #b58900;
+orange:    #cb4b16;
+red:       #dc322f;
+magenta:   #d33682;
+violet:    #6c71c4;
+blue:      #268bd2;
+cyan:      #2aa198;
+green:     #859900;
+-------------------------------------------------------------- */
+
+/* Site Colors
+-------------------------------------------------------------- */
+body {
+    background-color:#002b36;
+    color: #839496;
+}
+h1,h2,h3,h4,h5,h6 {
+    color: #93a1a1;
+}
+/* All link colors */
+a, a:active, a:link, a:visited {
+    color:#cb4b16;
+}
+/* Current Page Link Color */
+a.active {
+    color: #268bd2;
+}
+
+div.container {
+    background-color:#073642;
+}
+div.header {
+    background-color:#93a1a1;
+}
+div.footer {
+    background-color:#002b36;
+}
+div.heading {
+    background-color:#cb4b16;
+}
+div.heading h1 {
+    color:#073642;
+}
+div.main_nav h1 a, div.main_nav h1 a:active,
+div.main_nav h1 a:link, div.main_nav h1 a:visited {
+    color:#073642;
+}
+div.main_nav h1 a.active {
+    color:#cb4b16;
+}
+
+
+/* Footer Affixed
+------------------------------------------------------------- */
+html, body {
+    height:100%;
+}
+div.content{
+    height:100%;
+    min-height:100%;
+}
+div.sidebar {
+    height:100%;
+    min-height:100%;
+}
+div.container {
+    min-height:100%;
+}
+div.footer {
+    position:absolute;
+    bottom:0px;
+}
+
+
+/* Blueprint Overides
+-------------------------------------------------------------- */ 
+div.footer {
+    padding-top: 1em;
+    padding-bottom: 1em;
+    text-align:center;
+    font-weight:bold;
+}
+
+div.footer p {
+    margin:0em;
+}
+
+div.header h1{
+    margin-top:.25em;
+    padding-top:.12em;
+}
+
+div.content {
+    min-height:100%;
+}
+
+/* Nav Styling
+-------------------------------------------------------------- */
+a, a:active, a:link, a:visited {
+    text-decoration: none;
+}
+div.main_nav {
+    margin-top:1em;
+    height:100%;
+    text-align:center;
+}
+div.main_nav h1 {
+    text-align:center;
+    display:inline;
+    padding-right:.5em;
+}
