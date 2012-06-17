@@ -5,5 +5,5 @@ trevor.bramwell.net
 | --------------- | ---------------------------- |
 | Trevor Bramwell | Sun May  6 09:53:04 UTC 2012 |
 
-This is the home page of Trevor Bramwell.
+This is the home page of Trevor Bramwell, written in wok.
 
