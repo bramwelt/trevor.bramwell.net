@@ -5,5 +5,7 @@
 | --------------- | ---------------------------- |
 | Trevor Bramwell | Sun May  6 09:53:04 UTC 2012 |
 
-This is the home page of Trevor Bramwell, written in wok.
+This is the home page of Trevor Bramwell, written in [wok][].
+
+[wok]: http://wok.mythmon.com
 
