@@ -1,5 +1,0 @@
-title: About Me
-tags: [_nav]
-nav_sort: 3
----
-My name is Trevor Bramwell.

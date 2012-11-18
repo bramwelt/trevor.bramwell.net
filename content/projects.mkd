@@ -1,6 +1,0 @@
-title: Projects
-tags: [_nav]
-nav_sort: 4
----
-## [Ganeti Web Manager](http://code.osuosl.org/projects/ganeti-webmgr)
-## [github](http://github.com/tehriddler)

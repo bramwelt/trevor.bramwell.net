@@ -1,21 +1,11 @@
 {%- extends "base.html" %}
 
 {%- block content %}
-  {{ page.content }}
-{%- endblock %}
-
-{%- block sidebar %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec
-augue quis turpis tincidunt auctor vel non leo. Nullam eleifend molestie
-nibh et rutrum. Curabitur tristique felis vel velit luctus quis faucibus
-urna mollis. In at vestibulum eros. Ut in risus vitae elit tincidunt
-adipiscing a ac lectus. Quisque ullamcorper diam quis libero rhoncus
-laoreet. Pellentesque libero tellus, porttitor quis faucibus sit amet,
-venenatis ut mi. Integer ac eros at purus tincidunt fringilla sed vitae
-urna. Aenean felis sem, facilisis eu tristique sed, posuere ut metus.
-Aenean quis lacus lacus. Praesent erat urna, rutrum vel pulvinar in,
-bibendum sed sem. Etiam hendrerit porta turpis eu imperdiet. Donec
-tincidunt, sapien id rhoncus malesuada, nulla mauris porta nibh, non
-vehicula dui odio non augue. In hac habitasse platea dictumst. Quisque
-interdum lacinia orci ut adipiscing.
+  <h1>{{ page.title }}</h1>
+  <div class="row">
+    <div class="span10">
+      {{ page.content }}
+    </div>
+    <div class="span2">
+  </div>
 {%- endblock %}
